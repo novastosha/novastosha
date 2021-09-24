@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello there! 👋
 
-<!--
-**novastosha/novastosha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Developer of Earth better known as novastosha.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - I am a Java, JS and C# developer
+  - Loves gaming, I play Minecraft, Valorant, World of Warcraft and many other games!
+
+### Socials 📫 💬
+
+  Want to reach me?
+  
+  **Add me on discord:** Developer of Earth#6327
