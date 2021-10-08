@@ -11,7 +11,7 @@ I am Developer of Earth better known as novastosha.
 
   Want to reach me?
   
-  **Add me on discord:** Developer of Earth#6327
+  **Add me on discord:** Earth Man#6327
 
 
 [![novastosha's GitHub stats](https://github-readme-stats.vercel.app/api?username=novastosha)](https://github.com/novastosha/github-readme-stats)  
