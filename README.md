@@ -4,7 +4,7 @@ I am Earth Man (previously "Developer of Earth") better known as novastosha.
 
 ### About me
 
-  - I am a Java, JS and C# developer
+  - I am a Java, JS and Python developer
   - Loves gaming, I play Minecraft, Valorant, World of Warcraft and many other games!
 
 ### Socials 📫 💬
