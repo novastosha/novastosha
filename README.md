@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-I am Earth Man (previously "Developer of Earth") better known as novastosha.
+I am Earth Man (previously "Developer of Earth") better known as novastosha. (I know, too many names 😵‍💫)
 
 ### About me
 
