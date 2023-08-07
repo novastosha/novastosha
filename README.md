@@ -1,17 +1,10 @@
 ## Hello there! 👋
 
-I am Earth Man (previously "Developer of Earth") better known as novastosha. (I know, too many names 😵‍💫)
-
-### About me
-
-  - I am a Java, JS and Python developer
-  - Loves gaming, I play Minecraft, Valorant, World of Warcraft and many other games!
+I am Earth Man, I was once Jupiter Man and once before it Sun Man, but I decided to settle on Earth as I had found it diverse and cool; it is a very cool planet you guys live in 😎🌍
 
 ### Socials 📫 💬
-
   Want to reach me?
   
-  **Add me on discord:** Earth Man#6969
-
+  **Add me on discord:** earthspecie
 
 [![novastosha's GitHub stats](https://github-readme-stats.vercel.app/api?username=novastosha)](https://github.com/novastosha/github-readme-stats)  
